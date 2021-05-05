@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Debarshi Das</h1>
 <h3 align="center">A passionate DS and ML developer from India. A Maths lover at heart and a problem solver by nature.</h3>
 
