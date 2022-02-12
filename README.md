@@ -14,10 +14,9 @@
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
 <br/>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact)
+<p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact)
+</p>
 <br/>
 
 <h3 align="center">Connect with me 😊</h3>
