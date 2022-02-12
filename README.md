@@ -2,6 +2,9 @@
 <i><h3 align="center">I enjoy making Frontend and UIs which have a pleasing yet useful and usable UX 💙.<br>The full color wheel 🎨 is my pixie dust. </h3></i>
 <hr/>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=6c5eff)
+
+
 - 🔭 I’m currently working on **UX and Dev Skills 💡**
 
 - 🌱 I’m currently learning **React**
@@ -10,7 +13,6 @@
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
 <br/>
-
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical)
 
