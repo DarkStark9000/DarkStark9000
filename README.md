@@ -27,8 +27,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000&theme=radical">
 </p>
 
-<br/>
-
+<br>
 
 <h3 align="center">Connect with me 😊</h3>
 <p align="center">
