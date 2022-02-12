@@ -22,7 +22,7 @@
 
 </p>
 <hr/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000&theme=radical">
 <br/>
 
 
