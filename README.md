@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debarshi Das</h1>
-<h2 align="center">I enjoy making Frontend and UIs which have a pleasing yet useful and usable UX 💙. The full color wheel 🎨 is my pixie dust. </h3>
+<h2 align="center">I enjoy making Frontend and UIs which have a pleasing yet useful and usable UX 💙.<br>The full color wheel 🎨 is my pixie dust. </h3>
 
 
 - 🔭 I’m currently working on **Web Dev Project *Shh🤫***
