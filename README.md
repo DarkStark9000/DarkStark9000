@@ -10,16 +10,9 @@
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
 <br/>
-<p>
-I sometimes turn up in these places 👇
-<a href="https://leetcode.com/DarkStark9000/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a>
 
-
-</p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact)
 
@@ -28,6 +21,8 @@ I sometimes turn up in these places 👇
 <p align="center">
 <a href="https://instagram.com/thedebarshidas" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Debarshi Das Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/DarkStark9000/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a>
 <a href="https://twitter.com/thedebarshidas" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Debarshi Das Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thedebarshidas/" target="blank">
