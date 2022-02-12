@@ -25,6 +25,8 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000&theme=radical">
+
+<img src="https://gh-readme.herokuapp.com/graph?username=DarkStark9000&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark">
 </p>
 <br>
 
