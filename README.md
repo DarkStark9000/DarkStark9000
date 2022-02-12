@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 780px;">Hi 👋, I'm Debarshi Das</h1>
+<h1 align="center">Hi 👋, I'm Debarshi Das</h1>
 <h3 align="center">Mostly known as DarkStark9000 across platforms, I am a passionate Web Developer dabbling in JS Frameworks, and enjoying their intricacies.</h3>
 
 
