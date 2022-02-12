@@ -21,7 +21,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=250"
 
 </p>
+<hr/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000">
 <br/>
+
 
 <h3 align="center">Connect with me 😊</h3>
 <p align="center">
