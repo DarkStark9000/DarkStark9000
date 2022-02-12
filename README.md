@@ -13,6 +13,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=DarkStark9000)]
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact)
 
 
