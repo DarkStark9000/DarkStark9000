@@ -1,26 +1,16 @@
-<h1 align="center">Hi 👋, I'm Debarshi Das</h1>
+<h1 align="center" style="font-size: 72px;">Hi 👋, I'm Debarshi Das</h1>
 <h3 align="center">Mostly known as DarkStark9000 across platforms, I am a passionate Web Developer dabbling in JS Frameworks, and enjoying their intricacies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkstark9000&label=Profile%20views&color=0e75b6&style=flat" alt="darkstark9000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkstark9000" alt="darkstark9000" /></a> </p>
+- 🔭 I’m currently working on **Web Dev Project *Shh🤫***
 
-- 🔭 I’m currently working on **my portfolio webpage.**
+- 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning **Android Development using Kotlin and Jetpack Compose**
-
-- 💬 Ask me about **CSS, CPP, PHP.**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **debarshi8das@gmail.com**
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/darkstark9000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darkstark9000" height="30" width="40" /></a>
-<a href="https://instagram.com/thedebarshidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedebarshidas" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/darkstark_9000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darkstark_9000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darkstark9000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darkstark9000" height="30" width="40" /></a>
 
 </p>
 
@@ -32,3 +22,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkstark9000&show_icons=true&locale=en" alt="darkstark9000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkstark9000&" alt="darkstark9000" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/darkstark9000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darkstark9000" height="30" width="40" /></a>
+<a href="https://instagram.com/thedebarshidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thedebarshidas" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/darkstark_9000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darkstark_9000" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/darkstark9000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darkstark9000" height="30" width="40" /></a>
+
