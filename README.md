@@ -13,7 +13,7 @@
 <p>
 I sometimes turn up in these places 👇
 <a href="https://leetcode.com/DarkStark9000/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a>
 
 
 </p>
@@ -31,4 +31,4 @@ I sometimes turn up in these places 👇
 <a href="https://twitter.com/thedebarshidas" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thedebarshidas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thedebarshidas/" target="blank">
-<img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="thedebarshidas" height="30" width="40" /></a></p>
+<img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="thedebarshidas" height="30" width="40" /></a></p>
