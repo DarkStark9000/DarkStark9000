@@ -19,7 +19,7 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=250"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=320"
 
 </p>
 <hr/>
