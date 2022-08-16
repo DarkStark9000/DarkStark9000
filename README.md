@@ -7,7 +7,7 @@
 ![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
 
 
-- 🔭 I’m currently working on **UX and Dev Skills 💡**
+- 🔭 I’m currently working as **Frontend Intern** at [Solruf](https://solruf.com/)
 
 - 🌱 I’m currently learning **React**
 
