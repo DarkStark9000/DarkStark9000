@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working as **Frontend Intern** at [Solruf](https://solruf.com/)
 
-- 🌱 I’m currently learning **React**
+- 💻 Here's my [GitLab](https://gitlab.com/thedebarshidas) profile for my Internship work history.
+
+- 🌱 I’m currently learning **Testing in React**
 
 - 🏄‍♀️ Sometimes, I can be found trying to **invert a Binary Tree**
 
