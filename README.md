@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/35889385/153716705-36d14191-5f42-460a-b063-241d0e837c17.gif" width="28px" height="28px" alt="hi"/> I'm Debarshi Das</h1>
-<i><h3 align="center">I enjoy making Frontend and UIs which have a pleasing yet useful and usable UX 💙.<br>The full color wheel 🎨 is my pixie dust. </h3></i>
+<i><h3 align="center">I enjoy making Frontend and UIs with a pleasing yet useful & usable UX 💙.<br>The full color wheel 🎨 is my pixie dust. </h3></i>
 <hr/> 
 
 
@@ -7,13 +7,11 @@
 ![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
 
 
-- 🔭 I’m currently working as **Frontend Intern** at [Solruf](https://solruf.com/)
-
-- 💻 Here's my [GitLab](https://gitlab.com/thedebarshidas) profile for my Internship work history.
+- 😊 Prev **Frontend Intern** at [Solruf](https://solruf.com/)
 
 - 🌱 I’m currently learning **Testing in React**
 
-- 🏄‍♀️ Sometimes, I can be found trying to **invert a Binary Tree**
+- 🏄‍♀️ Sharpening DSA @ [Leetcode](https://leetcode.com/DarkStark9000)
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
 <br/>
