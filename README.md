@@ -9,7 +9,9 @@
 
 - 😊 Prev **Frontend Intern** at [Solruf](https://solruf.com/)
 
-- 🌱 I’m currently learning **Testing in React**
+- 🌱 Currently learning **Testing in React**
+
+- 💪 Looking to get into **Backend Engg**
 
 - 🏄‍♀️ Sharpening DSA @ [Leetcode](https://leetcode.com/DarkStark9000)
 
