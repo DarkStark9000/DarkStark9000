@@ -39,7 +39,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Debarshi Das Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/DarkStark9000/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a>
-<a href="https://twitter.com/thedebarshidas" target="blank">
+<a href="https://twitter.com/__debarshi" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Debarshi Das Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thedebarshidas/" target="blank">
 <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debarshi Das LinkedIn" height="30" width="40" /></a></p>
