@@ -4,7 +4,8 @@
 
 
 
-![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
+![Profile Views](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/5128?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 
 - 😊 Prev **Frontend Intern** at [Solruf](https://solruf.com/)
