@@ -1,11 +1,8 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/35889385/153716705-36d14191-5f42-460a-b063-241d0e837c17.gif" width="28px" height="28px" alt="hi"/> I'm Debarshi Das</h1>
 <i><h3 align="center">I enjoy making Frontend and UIs with a pleasing yet useful & usable UX 💙.<br>The full color wheel 🎨 is my pixie dust. </h3></i>
-<hr/> 
+<hr/>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
-
+![Stalked by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff)
 
 - 😊 Prev **Frontend Intern** at [Solruf](https://solruf.com/)
 
@@ -16,12 +13,12 @@
 - 🏄‍♀️ Sharpening DSA @ [Leetcode](https://leetcode.com/DarkStark9000)
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
-<br/>
+  <br/>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=320"
+<img src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&hide=contribs,prs&show_icons=true&theme=radical&card_width=380&card_height=440">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=300&card_height=440"
 
 </p>
 <hr/>
@@ -29,9 +26,8 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000&theme=radical">
 <br><br><br><br>
-<img align="center" src="https://gh-readme.herokuapp.com/graph?username=DarkStark9000&custom_title=Contribution%20Graph&theme=react-dark&area_color=6c5eff&area=true">
+<!-- <img align="center" src="https://gh-readme.herokuapp.com/graph?username=DarkStark9000&custom_title=Contribution%20Graph&theme=react-dark&area_color=6c5eff&area=true"> -->
 </p>
-<br>
 
 <h3 align="center">Connect with me 😊</h3>
 <p align="center">
