@@ -15,18 +15,27 @@
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
   <br/>
 
-<p align="center">
+<h3>My Stats </h3>
+<hr />
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&include_all_commits=true&count_private=true&show_icons=true&theme=radical&card_width=380&card_height=500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=300&card_height=500">
 </p>
+
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000&theme=radical">
 </p>
+
+<h3>My Dev Stats</h3>
+<hr />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkStark9000&layout=compact&theme=radical">
 </p>
-<hr/>
 
 <br><br>
 <!-- <img align="center" src="https://gh-readme.herokuapp.com/graph?username=DarkStark9000&custom_title=Contribution%20Graph&theme=react-dark&area_color=6c5eff&area=true"> -->
