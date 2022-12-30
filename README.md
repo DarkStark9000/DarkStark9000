@@ -84,6 +84,16 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 05 November 2021 - To: 29 December 2022
+
+Total Time: 189 hrs 3 mins
+
+JavaScript    113 hrs 21 mins >>>>>>>>>>>>>>>----------   59.96 %
+CSS           20 hrs 15 mins  >>>----------------------   10.71 %
+HTML          18 hrs 4 mins   >>-----------------------   09.56 %
+Other         12 hrs 25 mins  >>-----------------------   06.57 %
+```
 
 <!--END_SECTION:waka-->
 
