@@ -19,8 +19,8 @@
 <hr />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&include_all_commits=true&count_private=true&show_icons=true&theme=radical&card_width=380&card_height=500">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=300&card_height=500">
+<img src="https://github-readme-stats-iota-eosin.vercel.app/api?username=DarkStark9000&include_all_commits=true&count_private=true&show_icons=true&theme=radical&card_width=380&card_height=500">
+<img src="httpd://github-readme-stats-iota-eosin.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=300&card_height=500">
 </p>
 
 <p align="center">
