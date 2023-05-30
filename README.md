@@ -13,16 +13,9 @@
 - 🏄‍♀️ Sharpening DSA @ [Leetcode](https://leetcode.com/DarkStark9000)
 
 - ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
-  <br/>
-
-<h3>My Stats </h3>
-<hr />
-
-<p align="center">
-<img src="https://github-readme-stats-iota-eosin.vercel.app/api?username=DarkStark9000&include_all_commits=true&count_private=true&show_icons=true&theme=radical&card_width=380&card_height=500">
-<img src="httpd://github-readme-stats-iota-eosin.vercel.app/api/top-langs/?username=DarkStark9000&show_icons=true&theme=radical&layout=compact&card_width=300&card_height=500">
-</p>
-
+  <br/> 
+  
+  
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkStark9000&theme=radical">
 </p>
