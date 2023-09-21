@@ -107,7 +107,4 @@ Other         16 hrs 2 mins   >>-----------------------   07.49 %
 <a href="https://instagram.com/_das.jpg" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Debarshi Das Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/DarkStark9000/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thedebarshidas/" target="blank">
-<img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debarshi Das LinkedIn" height="30" width="40" /></a>
-</p>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a></p>
