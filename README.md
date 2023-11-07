@@ -99,12 +99,3 @@ Other         16 hrs 2 mins   >>-----------------------   07.49 %
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkStark9000&layout=compact&theme=radical">
 </p> -->
-
-<br>
-
-<h3 align="center">Connect with me 😊</h3>
-<p align="center">
-<a href="https://instagram.com/_das.jpg" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Debarshi Das Instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/DarkStark9000/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarshi Das Leetcode" height="30" width="40" /></a></p>
