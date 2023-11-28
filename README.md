@@ -82,8 +82,8 @@ Databases & Tools →
 <hr />
 
 <div style="display: flex; align-items: center; gap: 10px;">
-<img height=200 width=300 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height=200 width=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&theme=dark#gh-dark-mode-only" />
+<img height=200 width=480 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img height=200 width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&theme=dark#gh-dark-mode-only" />
 <!-- 
 <img height=200 width=700 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=default#gh-light-mode-only"/>
 <img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=donut&theme=default#gh-light-mode-only"/> -->
