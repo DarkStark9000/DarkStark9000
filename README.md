@@ -6,7 +6,7 @@
 
 - 💼💻 **Associate** at PwC India
 
-- ⚡️♾️ Currently **\*Accelerating** towards Singularity\*
+- ⚡️♾️ Currently ***Accelerating** towards Singularity*
 
 - 💻🖱️ Branch hopping on Trees @ [Leetcode](https://leetcode.com/DarkStark9000) | [Codeforces](https://leetcode.com/DarkStark9000)
 
@@ -83,7 +83,7 @@ Databases & Tools →
 
 <div style="display: flex; align-items: center; gap: 10px;">
 <img height=200 width=440 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height=200 width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&theme=dark#gh-dark-mode-only" />
+<img height=200 width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&theme=dark#gh-dark-mode-only" />
 <!-- 
 <img height=200 width=700 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=default#gh-light-mode-only"/>
 <img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=donut&theme=default#gh-light-mode-only"/> -->
