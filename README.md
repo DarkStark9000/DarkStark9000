@@ -4,13 +4,13 @@
 
 ![Seen by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff&label=Seen+By)
 
-- 💻 **Associate** at PwC India
+- 💼💻 **Associate** at PwC India
 
-- 🌱 Currently hibernating
+- ⚡️♾️ Currently **\*Accelerating** towards Singularity\*
 
-- 🏄‍♀️ Slogged @ [Leetcode](https://leetcode.com/DarkStark9000)
+- 💻🖱️ Branch hopping on Trees @ [Leetcode](https://leetcode.com/DarkStark9000) | [Codeforces](https://leetcode.com/DarkStark9000)
 
-- ⚡ Fun fact **I think, Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
+- 😳☝️ Fun fact **Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
   <br/>
 
 <h3> My Skill Set </h3>
@@ -43,6 +43,7 @@ Languages →
 
 Deployment & Hosting →
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -70,7 +71,6 @@ Frameworks & Libraries →
 Databases & Tools →
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,24 +78,17 @@ Databases & Tools →
 
 </div>
 
-<h3>My Dev Stats</h3>
+<h3> Random stat </h3>
 <hr />
 
-<!--START_SECTION:waka-->
+<div style="display: flex; align-items: center; gap: 10px;">
+<img height=200 width=700 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&theme=dark#gh-dark-mode-only" />
 
-```text
-From: 05 November 2021 - To: 21 April 2023
+<img height=200 width=700 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=default#gh-light-mode-only"/>
+<img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=donut&theme=default#gh-light-mode-only"/>
+</div>
 
-Total Time: 214 hrs 6 mins
-
-JavaScript    130 hrs 6 mins  >>>>>>>>>>>>>>>----------   60.77 %
-CSS           22 hrs          >>>----------------------   10.28 %
-HTML          18 hrs 47 mins  >>-----------------------   08.77 %
-Other         16 hrs 2 mins   >>-----------------------   07.49 %
-```
-
-<!--END_SECTION:waka-->
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkStark9000&layout=compact&theme=radical">
-</p> -->
+<div style="display: flex; align-items: center; justify-content: center;">
+<img height=750 width=540 src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkStark9000&layout=compact"/>
+</div>
