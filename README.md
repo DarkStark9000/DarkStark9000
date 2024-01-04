@@ -8,7 +8,7 @@
 
 - ⚡️♾️ Currently ***Accelerating** towards Singularity*
 
-- 💻🖱️ Branch hopping on Trees @ [Leetcode](https://leetcode.com/DarkStark9000) | [Codeforces](https://leetcode.com/DarkStark9000)
+- 💻🖱️ Branch hopping on Trees @ [Leetcode](https://leetcode.com/DarkStark9000) | [Codeforces](https://codeforces.com/profile/DarkStark9000)
 
 - 😳☝️ Fun fact **Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
   <br/>
