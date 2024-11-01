@@ -4,9 +4,9 @@
 
 ![Seen by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff&label=Seen+By)
 
-- 💼💻 **Associate** at PwC India
+- 💼💻 **Frontend Engineer** at Metrum AI
 
-- ⚡️♾️ Currently ***Accelerating** towards Singularity*
+- ⚡️♾️ ***Maximally extracting** the potential out of LLMs and Neural Nets*
 
 - 💻🖱️ Branch hopping on Trees @ [Leetcode](https://leetcode.com/DarkStark9000) | [Codeforces](https://codeforces.com/profile/DarkStark9000)
 
