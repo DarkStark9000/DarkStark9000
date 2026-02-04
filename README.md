@@ -25,26 +25,13 @@
 
 ### Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" />
+| Languages | Frontend | Backend | AI/ML |
+|:---------:|:--------:|:-------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,nginx&theme=dark" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> |
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,nginx&theme=dark" />
-
-**AI / ML**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-
-**Databases**  
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" />
-
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,githubactions&theme=dark" />
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+| Databases | Cloud & DevOps | Tools |
+|:---------:|:--------------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" /> | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> |
 
 <br/>
 
