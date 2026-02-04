@@ -48,17 +48,14 @@
 
 <br/>
 
-### Activity
-
+<!-- STREAK STATS - Add your self-hosted URL here once deployed -->
+<!-- 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&mode=daily&background=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&mode=daily&background=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <img src="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&mode=daily&background=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-  </picture>
+  <img src="https://YOUR-STREAK-STATS.vercel.app?user=DarkStark9000&hide_border=true&background=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
+-->
 
-<br/>
+### Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStark9000&bg_color=000000&color=c9d1d9&line=6e5494&point=c9d1d9&area=true&area_color=6e5494&hide_border=true" alt="Contribution Graph"/>
