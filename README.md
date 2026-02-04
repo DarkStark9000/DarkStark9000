@@ -50,9 +50,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <img src="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+    <img src="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
   </picture>
 </div>
 
