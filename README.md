@@ -15,15 +15,15 @@
 
 <br/>
 
-### Currently
+### Focus
 
 - Steering product and solutions with an unhealthy obsession for end-user delight
 - Engineering rock-solid AI systems that play nice with user-facing apps
 - Token whisperer: minimizing spend, maximizing output
 
-<br/>
+---
 
-### Stack
+### Tech Stack
 
 |                                 Languages                                 |                                      Frontend                                       |                                      Backend                                       |                                   AI/ML                                    |
 | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
@@ -33,37 +33,31 @@
 | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" /> | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> |
 
-<br/>
+---
 
-### Stats
+### Metrics
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
-    <img height="180" src="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e" />
-    <img height="180" src="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e" alt="Top Languages"/>
-  </picture>
-</div>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
+<img height="180" src="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img height="180" src="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</picture>
+</p>
 
-<br/>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&langs_count=8&card_width=445" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&langs_count=8&card_width=445" />
+<img height="150" src="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&langs_count=8&card_width=445" alt="Top Languages"/>
+</picture>
+</p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-    <img src="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-  </picture>
-</div>
-
-<br/>
-
-### Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStark9000&bg_color=000000&color=c9d1d9&line=6e5494&point=c9d1d9&area=true&area_color=6e5494&hide_border=true" alt="Contribution Graph"/>
-</div>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStark9000&bg_color=000000&color=c9d1d9&line=6e5494&point=c9d1d9&area=true&area_color=6e5494&hide_border=true" alt="Activity Graph"/>
+</p>
