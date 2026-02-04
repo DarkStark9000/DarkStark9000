@@ -1,40 +1,53 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/35889385/153716705-36d14191-5f42-460a-b063-241d0e837c17.gif" width="28px" height="28px" alt="hi"/> I'm Debarshi Das</h1>
-<i><h3 align="center">I enjoy making functional UIs with a pleasing & usable UX 💙.<br>The full color wheel 🎨 is my pixie dust. </h3></i>
-<hr/>
+<div align="center">
 
-![Seen by](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff&label=Seen+By)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=50&lines=Debarshi+Das)](https://git.io/typing-svg)
 
-- 💼💻 **Frontend Engineer** at Metrum AI
+**`Frontend Engineer @ Metrum AI`**
 
-- ⚡️♾️ ***Maximally extracting** the potential out of LLMs and Neural Nets*
+<br/>
 
-- 💻🖱️ Branch hopping on Trees @ [Leetcode](https://leetcode.com/DarkStark9000) | [Codeforces](https://codeforces.com/profile/DarkStark9000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarshidas)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/DarkStark9000)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/DarkStark9000)
+![Profile Views](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff&style=flat-square&label=Views)
 
-- 😳☝️ Fun fact **Pandas are my spirit animal, cause Sleep is my state of Mindfulness**
-  <br/>
-  
-<h3> My Skill Set </h3>
-
-| Category | Skills |
-| ---- | ---- |
-| Prototyping | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)                                                             |
-| Languages | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| Deployment & Hosting | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-| Frameworks & Libraries | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) |
-| Databases & Tools | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) |
-
-
-<h3> Random stat </h3>
-<hr />
-
-<div style="display: flex; align-items: center; gap: 10px;">
-<img height=200 width=440 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height=200 width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&theme=dark#gh-dark-mode-only" />
-<!-- 
-<img height=200 width=700 src="https://github-readme-stats.vercel.app/api?username=DarkStark9000&show_icons=true&theme=default#gh-light-mode-only"/>
-<img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStark9000&layout=donut&theme=default#gh-light-mode-only"/> -->
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-<img height=750 width=540 src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkStark9000&layout=compact"/>
+<br/>
+
+### Currently
+
+- Building AI-powered interfaces with **Vercel AI SDK** and **Azure OpenAI**
+- Optimizing Core Web Vitals at scale
+- Architecting component systems for cross-team adoption
+
+<br/>
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,mongodb,azure,vercel,figma&theme=dark" />
+</p>
+
+<br/>
+
+### Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-nine-kappa-47.vercel.app/api/top-langs/?username=DarkStark9000&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e" alt="Top Languages"/>
+</div>
+
+<br/>
+
+### Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DarkStark9000&hide_border=true&background=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStark9000&bg_color=000000&color=c9d1d9&line=6e5494&point=c9d1d9&area=true&area_color=6e5494&hide_border=true" alt="Contribution Graph"/>
 </div>
