@@ -26,7 +26,7 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,mongodb,azure,vercel,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,tailwind,redux,nodejs,fastapi,flask,pytorch,tensorflow,postgres,mongodb,firebase,supabase,redis,nginx,docker,aws,azure,vercel,gcp,git,github,githubactions,vscode,figma&perline=15&theme=dark" />
 </p>
 
 <br/>
