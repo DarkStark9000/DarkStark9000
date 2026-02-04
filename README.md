@@ -41,12 +41,12 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
-<img height="180" src="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
+<img height="150" src="https://github-readme-stats-nine-kappa-47.vercel.app/api?username=DarkStark9000&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
 </picture>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-<img height="180" src="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img height="150" src="https://github-readme-streak-stats-teal-three.vercel.app?user=DarkStark9000&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </picture>
 </p>
 
