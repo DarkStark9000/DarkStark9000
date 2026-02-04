@@ -25,9 +25,26 @@
 
 ### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,tailwind,redux,nodejs,fastapi,flask,pytorch,tensorflow,postgres,mongodb,firebase,supabase,redis,nginx,docker,aws,azure,vercel,gcp,git,github,githubactions,vscode,figma&perline=15&theme=dark" />
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,nginx&theme=dark" />
+
+**AI / ML**  
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" />
+
+**Cloud & DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,githubactions&theme=dark" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 <br/>
 
