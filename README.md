@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=50&lines=Debarshi+Das)](https://git.io/typing-svg)
+# Debarshi Das
 
-**`Frontend Engineer @ Metrum AI`**
+**Frontend Engineer @ Metrum AI**
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarshidas)
+[![debarshidas.dev](https://img.shields.io/badge/debarshidas.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://debarshidas.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DarkStark9000)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/DarkStark9000)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarshidas)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/DarkStark9000)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/DarkStark9000)
-![Profile Views](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff&style=flat-square&label=Views)
+![Views](https://komarev.com/ghpvc/?username=DarkStark9000&color=6c5eff&style=flat-square&label=Views)
 
 </div>
 
