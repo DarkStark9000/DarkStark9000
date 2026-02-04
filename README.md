@@ -2,7 +2,7 @@
 
 # Debarshi Das
 
-**Frontend Engineer @ Metrum AI**
+**Lead Frontend Architect at [Metrum AI](https://www.metrum.ai/)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarshidas)
 [![debarshidas.dev](https://img.shields.io/badge/debarshidas.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://debarshidas.dev)
@@ -17,20 +17,20 @@
 
 ### Currently
 
-- Building AI-powered interfaces with **Vercel AI SDK** and **Azure OpenAI**
-- Optimizing Core Web Vitals at scale
-- Architecting component systems for cross-team adoption
+- Steering product and solutions with an unhealthy obsession for end-user delight
+- Engineering rock-solid AI systems that play nice with user-facing apps
+- Token whisperer: minimizing spend, maximizing output
 
 <br/>
 
 ### Stack
 
-| Languages | Frontend | Backend | AI/ML |
-|:---------:|:--------:|:-------:|:-----:|
+|                                 Languages                                 |                                      Frontend                                       |                                      Backend                                       |                                   AI/ML                                    |
+| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,nginx&theme=dark" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> |
 
-| Databases | Cloud & DevOps | Tools |
-|:---------:|:--------------:|:-----:|
+|                                            Databases                                             |                                          Cloud & DevOps                                           |                                      Tools                                      |
+| :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" /> | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> |
 
 <br/>
