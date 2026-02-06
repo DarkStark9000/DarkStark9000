@@ -2,7 +2,7 @@
 
 # Debarshi Das
 
-**Lead Frontend Architect at [Metrum AI](https://www.metrum.ai/)**
+**Lead Frontend Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarshidas)
 [![debarshidas.dev](https://img.shields.io/badge/debarshidas.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://debarshidas.dev)
