@@ -4,7 +4,7 @@
 
 **Lead Frontend Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarshidas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thedebarshidas)
 [![debarshidas.dev](https://img.shields.io/badge/debarshidas.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://debarshidas.dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DarkStark9000)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/DarkStark9000)
