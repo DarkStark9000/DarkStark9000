@@ -2,7 +2,7 @@
 
 # Debarshi Das
 
-**AI Infrastructure Engineer**
+**AI Infrastructure Engineer** · Bengaluru, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thedebarshidas)
 [![debarshidas.dev](https://img.shields.io/badge/debarshidas.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://debarshidas.dev)
@@ -15,22 +15,25 @@
 
 <br/>
 
+I am Debarshi Das, an AI infrastructure engineer in Bengaluru, India. I build the systems that production AI runs on: distributed LLM inference, model serving, KV-cache systems, and GPU clusters. My work, writing, and career are at **[debarshidas.dev](https://debarshidas.dev)**.
+
 ### Focus
 
-- Steering product and solutions with an unhealthy obsession for end-user delight
-- Engineering rock-solid AI systems that play nice with user-facing apps
-- Token whisperer: minimizing spend, maximizing output
+- **Distributed LLM inference:** multi-node vLLM serving, KV-cache sharing across NVIDIA and AMD systems, and automatic tensor-parallel sizing
+- **GPU infrastructure:** multi-machine clusters on RDMA fabrics, with GPU, host, NIC, and network telemetry
+- **Performance measurement:** benchmarking of throughput, latency, and efficiency across hardware
+- **The control plane around AI workloads:** multi-tenant access control, API authorization, usage metering, and billing
 
 ---
 
 ### Tech Stack
 
-|                                 Languages                                 |                                      Frontend                                       |                                      Backend                                       |                                   AI/ML                                    |
-| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,nginx&theme=dark" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> |
+|                                                Inference                                                 |                                                     Languages                                                      |                                                       Backend                                                       |                                         AI/ML                                         |
+| :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square) ![SGLang](https://img.shields.io/badge/SGLang-6C5EFF?style=flat-square) ![NCCL](https://img.shields.io/badge/NCCL-76B900?style=flat-square&logo=nvidia&logoColor=white) | <img src="https://skillicons.dev/icons?i=py,ts,js&theme=dark" alt="Python, TypeScript, JavaScript" /> | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nginx&theme=dark" alt="FastAPI, Node.js, NGINX" /> | <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" /> |
 
-|                                            Databases                                             |                                          Cloud & DevOps                                           |                                      Tools                                      |
-| :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" /> | <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /> |
+|                                                         Databases                                                          |                                                           Cloud & DevOps                                                           |                                                             Frontend                                                             |
+| :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=postgres,supabase,redis&theme=dark" alt="PostgreSQL, Supabase, Redis" /> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions&theme=dark" alt="AWS, Google Cloud, Docker, GitHub Actions" /> | <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React, Next.js" /> |
 
 ---
